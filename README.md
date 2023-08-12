@@ -1,0 +1,2 @@
+# DjangoToyProject
+Easy To Django
